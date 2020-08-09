@@ -22,7 +22,7 @@ This webpage consists of top resources for Stellar crypto currency.
 * [How to buy Stellar Lumens using USD?](https://stellarupdate.com/how-to-buy-stellar-lumens-using-usd-527/)
 * [How to store XLM?](https://stellarupdate.com/best-wallets-for-storing-stellar-lumens-262/)
 * [How to send and receive XLM using Ledger Nano S/X?](https://stellarupdate.com/send-and-receive-stellar-lumens-with-ledger-nano-s-nano-x-109/)
-* [How to send and receive XLM using Trezor?](Trezor tutorial for sending and receiving Stellar Lumens)
+* [How to send and receive XLM using Trezor?](https://stellarupdate.com/trezor-tutorial-for-sending-and-receiving-stellar-lumens-403/)
 * [Earn interest on XLM](https://stellarupdate.com/how-to-earn-interest-on-xlm-using-anchor-usd-376/)
 * [Create Stellar Lumens paper wallet](https://stellarupdate.com/how-to-create-a-stellar-lumens-paper-wallet-302/)
 * [How to merge Stellar accounts?](https://stellarupdate.com/merge-stellar-accounts-using-lobstr-merge-account-feature-122/)
